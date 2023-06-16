@@ -34,4 +34,6 @@ def escoger():
 
 
 escoger()
+
+print("amor")
     
